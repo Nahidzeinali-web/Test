@@ -1,0 +1,444 @@
+recording,split,task,peak score / threshold,peak at step,length,file
+293,test,stack red and yellow blocks,73.2658023335419,74,129,stack_red_and_yellow_blocks_20250707_102443_EDITED.npz
+18,val,stack the cups,2.8712820204697342,125,153,stack_the_cups_20250731_142458.npz
+36,test,pick up the blue block and drop it in the box,2.375506033934254,59,90,pick_up_the_blue_block_and_drop_it_in_the_box_20250704_114832_EDITED.npz
+205,val,pick and place the yellow block in the box,1.6115006918687034,63,110,pick_and_place_the_yellow_block_in_the_box_20250708_093620_EDITED.npz
+89,test,stack the blocks,1.375731168233706,10,82,stack_the_blocks_20250813_132843.npz
+234,val,stack the blocks,1.2677253574593554,10,93,stack_the_blocks_20250730_121806_EDITED.npz
+75,val,transfer the yellow and red blocks in to the box,1.0269742236922899,64,216,transfer_the_yellow_and_red_blocks_in_to_the_box_20250708_134433_EDITED.npz
+316,test,stack the cups,1.0240037736711813,10,109,stack_the_cups_20250731_150335.npz
+270,train,drop the blue block in the cardboard box,1.0079466464628966,77,108,drop_the_blue_block_in_the_cardboard_box_20250704_115731_EDITED.npz
+44,test,drop yellow block into the box,0.931794136197372,57,115,drop_yellow_block_into_the_box_20250721_123725_EDITED.npz
+358,val,stack the cups,0.9190773289231302,10,119,stack_the_cups_20250724_151244_EDITED.npz
+129,train,take the red block from the box and place it on the yellow block,0.903137403139726,10,139,take_the_red_block_from_the_box_and_place_it_on_the_yellow_block_20250707_154448_EDITED.npz
+385,train,stack the cylinders on top of each other on the red block,0.8448718124846922,10,176,stack_the_cylinders_on_top_of_each_other_on_the_red_block_20250708_133809_EDITED.npz
+148,val,stack the blocks,0.8439333365862025,11,108,stack_the_blocks_20250813_122237.npz
+357,test,stack the blocks,0.8268973636511362,13,101,stack_the_blocks_20250811_161205.npz
+353,val,stack white cylinder on blue cylinder,0.8190841027631636,11,96,stack_white_cylinder_on_blue_cylinder_20250717_123254_EDITED.npz
+360,train,place red block on the yellow block,0.8067218509366716,10,104,place_red_block_on_the_yellow_block_20250718_103953_EDITED.npz
+273,val,pick and place yellow block on blue block,0.760958689268284,10,130,pick_and_place_yellow_block_on_blue_block_20250718_104751_EDITED.npz
+420,val,stack the blocks,0.7421221497914462,152,197,stack_the_blocks_20250708_124347_EDITED.npz
+15,test,stack the cups,0.7416839228306585,14,134,stack_the_cups_20250724_150105_EDITED.npz
+264,train,stack the blocks,0.7038982488408168,10,108,stack_the_blocks_20250812_113026.npz
+336,val,place the cup in to the box,0.7033849736697972,85,175,place_the_cup_in_to_the_box_20250708_095432_EDITED.npz
+235,val,stack the cups,0.686602535701396,14,156,stack_the_cups_20250728_103026_EDITED.npz
+321,test,stack the cylinders,0.6745522510874505,76,83,stack_the_cylinders_20250707_155723_EDITED.npz
+204,val,stack the cups,0.6654252164873664,72,141,stack_the_cups_20250724_150730_EDITED.npz
+113,train,stack the blocks,0.6497902355210097,10,108,stack_the_blocks_20250813_103512.npz
+126,val,pick and place red block on blue block. place cylinders next to each other on red block.,0.6232628005798533,192,315,pick_and_place_red_block_on_blue_block._place_cylinders_next_to_each_other_on_red_block._20250710_121219_EDITED.npz
+384,train,stack the blocks,0.6094061699049241,12,107,stack_the_blocks_20250813_102749.npz
+347,test,pick and place white cylinder on red block,0.5960851536366962,86,87,pick_and_place_white_cylinder_on_red_block_20250723_134156_EDITED.npz
+365,val,stack the objects,0.592143432075618,257,313,stack_the_objects_20250709_145002_EDITED.npz
+436,test,stack the cups,0.5883908074579227,13,152,stack_the_cups_20250728_123317_EDITED.npz
+51,train,place the cup inside the other cup,0.5706405681389943,57,110,place_the_cup_inside_the_other_cup_20250724_132354_EDITED.npz
+285,val,stack the cups,0.5529164313200025,13,166,stack_the_cups_20250728_121130_EDITED.npz
+349,train,stack the cups,0.5527279617324674,10,151,stack_the_cups_20250728_120835_EDITED.npz
+300,test,stack the cups,0.53189857908293,10,116,stack_the_cups_20250724_145339_EDITED.npz
+351,train,place white cylinder in the box,0.5313991288967996,40,85,place_white_cylinder_in_the_box_20250723_132049_EDITED.npz
+368,test,place blue block in the box,0.5290490927217906,65,132,place_blue_block_in_the_box_20250721_115506_EDITED.npz
+233,train,pick and place white cylinder on blue cylinder,0.5175324222908285,11,117,pick_and_place_white_cylinder_on_blue_cylinder_20250717_124303_EDITED.npz
+333,train,stack yellow block on red block,0.5119061696469399,11,135,stack_yellow_block_on_red_block_20250717_130510_EDITED.npz
+413,train,stack the cylinders,0.5102738189431849,10,102,stack_the_cylinders_20250717_122605_EDITED.npz
+431,test,stack the blue cylinder on the white cylinder,0.5076879586005759,10,118,stack_the_blue_cylinder_on_the_white_cylinder_20250707_130801_EDITED.npz
+346,train,stack the cups,0.5018233463594626,10,112,stack_the_cups_20250716_140439_EDITED.npz
+322,train,pick and place yellow block in the box,0.5008164970454214,58,111,pick_and_place_yellow_block_in_the_box_20250721_114419_EDITED.npz
+112,train,stack the cylinders next to each other on top of the blue block,0.49986135061699144,10,173,stack_the_cylinders_next_to_each_other_on_top_of_the_blue_block_20250708_133237_EDITED.npz
+239,train,take the blue cylinder from the cardboard box and stack on top of the red block,0.498480670585263,13,112,take_the_blue_cylinder_from_the_cardboard_box_and_stack_on_top_of_the_red_block_20250707_155054_EDITED.npz
+427,test,stack the cups,0.4917834867944478,10,152,stack_the_cups_20250731_144752.npz
+6,train,stack the cups,0.48752131452626046,10,117,stack_the_cups_20250724_122313_EDITED.npz
+369,train,put yellow block in to box,0.48659312712117636,10,117,put_yellow_block_in_to_box_20250721_120130_EDITED.npz
+214,train,stack the blocks,0.45828338276613007,10,134,stack_the_blocks_20250730_120400_EDITED.npz
+429,val,stack the cups,0.4576089591983976,10,117,stack_the_cups_20250724_131530_EDITED.npz
+292,test,pick and place the blue cylinder on the red block and the yellow cube on the white cylinder,0.4512004818058712,10,184,pick_and_place_the_blue_cylinder_on_the_red_block_and_the_yellow_cube_on_the_white_cylinder_20250709_133603_EDITED.npz
+22,train,stack the cups,0.4511318538498578,10,97,stack_the_cups_20250731_150834.npz
+65,train,stack the cup inside the other cup,0.44321075643308566,59,111,stack_the_cup_inside_the_other_cup_20250724_151013_EDITED.npz
+42,train,stack the cups. do not knock over the tower,0.44192784863660745,55,92,stack_the_cups._do_not_knock_over_the_tower_20250710_122253_EDITED.npz
+117,train,stack the cups,0.4410024269172507,107,194,stack_the_cups_20250709_151107_EDITED.npz
+303,train,place the items in the box,0.4405121184565109,293,349,place_the_items_in_the_box_20250709_153925_EDITED.npz
+304,train,pick and place blue block on yellow block,0.43659124866956783,10,89,pick_and_place_blue_block_on_yellow_block_20250718_100801_EDITED.npz
+167,test,drop the cylinders in the cups,0.43549851210745055,132,180,drop_the_cylinders_in_the_cups_20250709_134157_EDITED.npz
+342,train,stack the cups,0.4280581261388194,10,123,stack_the_cups_20250724_145732_EDITED.npz
+362,test,pick and place the blocks on top of another,0.42706610765120995,62,186,pick_and_place_the_blocks_on_top_of_another_20250708_125303_EDITED.npz
+131,train,rotate the blue block 45 degrees,0.426743507481416,10,109,rotate_the_blue_block_45_degrees_20250708_122125_EDITED.npz
+428,train,pick and place blue cylinder on the red block,0.4242081776064198,10,109,pick_and_place_blue_cylinder_on_the_red_block_20250723_093650_EDITED.npz
+19,val,remove the blue object from the box,0.4206623647290864,72,135,remove_the_blue_object_from_the_box_20250704_133035_EDITED.npz
+372,test,stack the blocks,0.4147833397305441,13,112,stack_the_blocks_20250812_115628.npz
+41,val,stack the cups,0.405629182014511,10,111,stack_the_cups_20250730_104648_EDITED.npz
+71,val,transfer red block in to the box,0.4040116271356476,58,111,transfer_red_block_in_to_the_box_20250721_114930_EDITED.npz
+425,train,stack cylinders,0.39702765988385286,53,95,stack_cylinders_20250717_122329_EDITED.npz
+154,train,place the yellow block on the blue block,0.3926041039753533,25,115,place_the_yellow_block_on_the_blue_block_20250723_095602_EDITED.npz
+245,train,stack the blue block on the yellow block,0.3878600199347943,58,104,stack_the_blue_block_on_the_yellow_block_20250723_104331_EDITED.npz
+159,test,pick and drop the cylinders in the box,0.38703884770486957,170,230,pick_and_drop_the_cylinders_in_the_box_20250709_093419_EDITED.npz
+218,train,unstack the blue cylinder,0.3857948960584226,51,110,unstack_the_blue_cylinder_20250704_140339_EDITED.npz
+403,test,pick and drop white cylinder in the box,0.3807593144421971,55,116,pick_and_drop_white_cylinder_in_the_box_20250723_100211_EDITED.npz
+407,val,stack the blocks,0.3787375440255383,25,164,stack_the_blocks_20250812_114618.npz
+268,train,stack the cups,0.3723973126892699,11,195,stack_the_cups_20250730_104404_EDITED.npz
+364,train,stack white cylinder on blue block,0.3657807628676062,50,90,stack_white_cylinder_on_blue_block_20250723_133647_EDITED.npz
+83,val,stack the cups,0.3657263575899769,11,176,stack_the_cups_20250729_133131_EDITED.npz
+249,train,stack the cups,0.3648731240087266,101,102,stack_the_cups_20250721_112559_EDITED.npz
+274,train,drop blue block in the box,0.36405860236828913,71,132,drop_blue_block_in_the_box_20250721_114655_EDITED.npz
+56,train,stack the blocks,0.36345029204880686,10,115,stack_the_blocks_20250812_113952.npz
+318,train,stack the cups,0.36337968856905967,67,111,stack_the_cups_20250717_120711_EDITED.npz
+145,test,stack cups,0.36032235590832545,65,115,stack_cups_20250724_130202_EDITED.npz
+111,val,pick and place red block in to the cardboard box,0.3597632014963995,60,113,pick_and_place_red_block_in_to_the_cardboard_box_20250721_115842_EDITED.npz
+344,val,place the white cylinder on top of the blue cylinder,0.35814536244896833,10,101,place_the_white_cylinder_on_top_of_the_blue_cylinder_20250708_093219_EDITED.npz
+388,test,stack the cups,0.3556527652090829,60,109,stack_the_cups_20250714_151032_EDITED.npz
+255,test,stack the blocks,0.3491790803333508,72,119,stack_the_blocks_20250813_110550.npz
+101,train,stack blocks,0.34428935810072103,13,122,stack_blocks_20250721_114201_EDITED.npz
+307,train,stack the cups,0.3407692940860507,10,180,stack_the_cups_20250728_102011_EDITED.npz
+27,val,remove blue block from the stack,0.33898926823319725,53,108,remove_blue_block_from_the_stack_20250723_092528_EDITED.npz
+252,train,drop the blue cylinder inside the cup,0.3319432772430311,10,104,drop_the_blue_cylinder_inside_the_cup_20250704_150930_EDITED.npz
+404,val,stack the blocks,0.3311137718163641,13,133,stack_the_blocks_20250811_152641.npz
+281,val,stack the cups,0.3301426397283885,60,113,stack_the_cups_20250725_103406_EDITED.npz
+158,train,stack the cups,0.3290330494645734,77,134,stack_the_cups_20250709_150225_EDITED.npz
+114,train,place cup inside other cup,0.3263408154338939,54,100,place_cup_inside_other_cup_20250717_121316_EDITED.npz
+219,val,stack the cups,0.32583045866100396,10,163,stack_the_cups_20250728_122334_EDITED.npz
+48,train,stack the objects,0.3242835263806256,252,299,stack_the_objects_20250709_144109_EDITED.npz
+84,val,stack the cups,0.32274787213676853,10,111,stack_the_cups_20250728_131059_EDITED.npz
+78,train,stack the cups,0.32185718279098363,13,135,stack_the_cups_20250730_114931_EDITED.npz
+301,train,stack the blocks. place blue cylinder on top,0.32158441738247756,10,192,stack_the_blocks._place_blue_cylinder_on_top_20250709_121306_EDITED.npz
+418,train,stack the cups,0.3173884363218654,11,106,stack_the_cups_20250731_142234.npz
+196,train,put white cylinder on top of blue block,0.3151814069395721,52,85,put_white_cylinder_on_top_of_blue_block_20250723_133906_EDITED.npz
+237,train,stack the cups,0.3130276146028444,70,124,stack_the_cups_20250724_122854_EDITED.npz
+46,test,stack the blocks,0.31289013052273473,18,107,stack_the_blocks_20250813_124952.npz
+2,val,stack the cups,0.3122130154681857,14,154,stack_the_cups_20250728_103833_EDITED.npz
+367,test,stack the cylinders on top of the yellow block,0.3091734703684465,77,153,stack_the_cylinders_on_top_of_the_yellow_block_20250709_094144_EDITED.npz
+62,train,rotate the red block 90 degrees,0.3078519624342087,12,140,rotate_the_red_block_90_degrees_20250708_122506_EDITED.npz
+179,train,stack the blocks,0.30731479933058337,13,105,stack_the_blocks_20250730_120130_EDITED.npz
+221,train,stack the cups inside eachother,0.3008838111879017,102,103,stack_the_cups_inside_eachother_20250724_124153_EDITED.npz
+421,train,stack the blocks,0.2992296978189287,14,117,stack_the_blocks_20250811_150549.npz
+225,test,stack the cups and place the white cylinder on the red block,0.2984757115251082,98,199,stack_the_cups_and_place_the_white_cylinder_on_the_red_block_20250709_103117_EDITED.npz
+417,test,stack the blocks,0.2973876854162216,84,118,stack_the_blocks_20250811_160637.npz
+90,val,stack the cups,0.2957609657744825,52,95,stack_the_cups_20250716_140209_EDITED.npz
+359,val,place the blue cylinder inside the box,0.2900957602461856,62,116,place_the_blue_cylinder_inside_the_box_20250704_153435_EDITED.npz
+189,test,unstack the blocks,0.28778183568553106,68,227,unstack_the_blocks_20250708_130108_EDITED.npz
+164,val,stack the blocks,0.28713548483730555,11,96,stack_the_blocks_20250730_121301_EDITED.npz
+132,train,pick and drop red block in to the cardboard box,0.28457007299409026,60,116,pick_and_drop_red_block_in_to_the_cardboard_box_20250723_132332_EDITED.npz
+396,test,stack the blocks,0.2835232160588167,72,134,stack_the_blocks_20250813_125245.npz
+216,train,stack the blocks,0.28153789862296014,13,108,stack_the_blocks_20250730_124245_EDITED.npz
+25,train,stack the cups,0.2811871844779565,111,112,stack_the_cups_20250724_150344_EDITED.npz
+203,test,stack the cups,0.28069493285283714,52,95,stack_the_cups_20250721_112055_EDITED.npz
+305,test,stack the blocks,0.2796696937474577,10,124,stack_the_blocks_20250811_160919.npz
+115,train,stack yellow block on the blue cylinder,0.27574506380354974,75,127,stack_yellow_block_on_the_blue_cylinder_20250723_093942_EDITED.npz
+171,train,unstack the blocks,0.27445057403011985,61,202,unstack_the_blocks_20250709_110109_EDITED.npz
+49,train,unstack the yellow block,0.27444083297386335,49,106,unstack_the_yellow_block_20250723_092810_EDITED.npz
+33,train,place the cup inside other cup,0.2741270882530811,57,106,place_the_cup_inside_other_cup_20250721_112330_EDITED.npz
+30,train,transfer yellow block in to the box,0.27405473612132963,60,118,transfer_yellow_block_in_to_the_box_20250723_100911_EDITED.npz
+286,train,pick and place red block on the blue block,0.27175265508433416,49,89,pick_and_place_red_block_on_the_blue_block_20250718_112037_EDITED.npz
+395,train,stack the cups,0.27112069672688394,10,126,stack_the_cups_20250707_133119_EDITED.npz
+124,test,stack the cups,0.2694276653760843,103,104,stack_the_cups_20250724_121748_EDITED.npz
+267,train,stack the cups,0.26919925728966854,136,187,stack_the_cups_20250708_130827_EDITED.npz
+143,train,place white cylinder on the yellow block,0.2690002923265689,94,95,place_white_cylinder_on_the_yellow_block_20250723_095934_EDITED.npz
+165,train,stack the cups,0.2684177299593336,10,115,stack_the_cups_20250729_144906_EDITED.npz
+348,train,stack the blocks,0.26403300776969385,10,103,stack_the_blocks_20250718_101122_EDITED.npz
+391,val,stack the cups,0.2632428478542669,91,157,stack_the_cups_20250730_103550_EDITED.npz
+185,train,stack blue block on yellow block,0.2631000323676786,10,130,stack_blue_block_on_yellow_block_20250721_121806_EDITED.npz
+319,train,stack the cylinders,0.2621405127358018,50,94,stack_the_cylinders_20250717_124858_EDITED.npz
+317,train,remove the white cylinder from the stack of blocks and replace it with the blue cylinder,0.25477632675270573,157,200,remove_the_white_cylinder_from_the_stack_of_blocks_and_replace_it_with_the_blue_cylinder_20250708_151005_EDITED.npz
+13,train,stack the cups,0.2545584168423737,10,148,stack_the_cups_20250729_134924_EDITED.npz
+416,test,stack the cups,0.2540974870336371,13,121,stack_the_cups_20250728_125806_EDITED.npz
+107,train,pick up the blue block and stack it with the red block,0.25372126550394064,11,100,pick_up_the_blue_block_and_stack_it_with_the_red_block_20250704_152221_EDITED.npz
+121,train,stack the blocks,0.2525553014153205,17,112,stack_the_blocks_20250812_113651.npz
+213,train,stack the blocks,0.2522160988186678,135,182,stack_the_blocks_20250708_123726_EDITED.npz
+240,train,stack the cups,0.2506783438292822,10,178,stack_the_cups_20250728_123610_EDITED.npz
+266,test,remove the red object from the pile,0.24953853669733453,56,114,remove_the_red_object_from_the_pile_20250704_140730_EDITED.npz
+389,train,stack the cups,0.24735929295660716,10,163,stack_the_cups_20250728_104939_EDITED.npz
+153,val,pick and place the white cylinder on top of the blue cylinder,0.24624921896497715,50,98,pick_and_place_the_white_cylinder_on_top_of_the_blue_cylinder_20250708_104625_EDITED.npz
+222,test,stack the cups,0.24603338937518676,61,113,stack_the_cups_20250725_095547_EDITED.npz
+355,train,"stack the blocks, blue in the middle, yellow on the top",0.24521053683383898,10,206,"stack_the_blocks,_blue_in_the_middle,_yellow_on_the_top_20250709_103839_EDITED.npz"
+166,val,stack the cups,0.24413003757012822,147,196,stack_the_cups_20250709_095251_EDITED.npz
+261,train,pick and stack the cups inside each otherpick and stack the cups inside each other,0.23895465208413422,106,107,pick_and_stack_the_cups_inside_each_otherpick_and_stack_the_cups_inside_each_other_20250725_124240_EDITED.npz
+296,train,stack the cups,0.2347950622939473,83,138,stack_the_cups_20250728_133832_EDITED.npz
+99,test,stack the blocks,0.23179685370625533,85,150,stack_the_blocks_20250811_160331.npz
+109,val,stack the cups,0.2316634331792704,14,154,stack_the_cups_20250728_103544_EDITED.npz
+63,test,stack the cups,0.22989614094013028,50,97,stack_the_cups_20250724_131114_EDITED.npz
+246,test,place blue block on yellow block,0.22867067515370998,48,101,place_blue_block_on_yellow_block_20250718_113344_EDITED.npz
+334,train,pick and stack the cup inside the other cup,0.2280217010602908,94,95,pick_and_stack_the_cup_inside_the_other_cup_20250724_122620_EDITED.npz
+162,val,stack cups,0.22780983391796075,88,191,stack_cups_20250728_115706_EDITED.npz
+81,train,unstack the white cylinder,0.22737546961511385,63,113,unstack_the_white_cylinder_20250723_115048_EDITED.npz
+231,train,stack the cups,0.22725503534230543,10,112,stack_the_cups_20250731_141351.npz
+295,train,place the blue block on top of the red block,0.2269717082364022,79,150,place_the_blue_block_on_top_of_the_red_block_20250704_121045_EDITED.npz
+1,train,pick and place the blue cylinder and the yellow block in to the box,0.226129848344737,64,207,pick_and_place_the_blue_cylinder_and_the_yellow_block_in_to_the_box_20250708_144010_EDITED.npz
+54,val,stack the cups,0.22555699028065682,88,157,stack_the_cups_20250731_145549.npz
+242,train,pick and place cup inside other cup,0.22494607055034702,59,109,pick_and_place_cup_inside_other_cup_20250717_121048_EDITED.npz
+387,val,stack the yellow block on the red block,0.22452865583976134,10,122,stack_the_yellow_block_on_the_red_block_20250723_091934_EDITED.npz
+291,train,stack the blocks,0.22419326508597792,62,97,stack_the_blocks_20250813_111222.npz
+309,train,stack the blocks,0.22400271717685843,266,267,stack_the_blocks_20250710_105854_EDITED.npz
+290,train,place blue block on red block,0.2228373275261514,92,104,place_blue_block_on_red_block_20250714_120516_EDITED.npz
+312,train,pick and place red block on the blue block,0.2227830005492532,58,98,pick_and_place_red_block_on_the_blue_block_20250723_133143_EDITED.npz
+330,test,pick up the red block and remove it from the cardboard box,0.2211990419238566,83,152,pick_up_the_red_block_and_remove_it_from_the_cardboard_box_20250704_133828_EDITED.npz
+345,train,put the cup and red block in the cardboard box,0.2205663908981003,165,221,put_the_cup_and_red_block_in_the_cardboard_box_20250708_144615_EDITED.npz
+329,val,stack the cups',0.21942738620391947,30,93,stack_the_cups'_20250729_132512_EDITED.npz
+397,train,stack the cups,0.21405016665275847,97,98,stack_the_cups_20250723_115423_EDITED.npz
+440,train,stack the cups,0.21262331136625076,13,159,stack_the_cups_20250728_104658_EDITED.npz
+69,train,pick and place white cylinder on the blue cylinder,0.21229041717128389,116,117,pick_and_place_white_cylinder_on_the_blue_cylinder_20250723_095006_EDITED.npz
+259,train,stack the blocks,0.20982305001522747,10,119,stack_the_blocks_20250811_144247.npz
+314,train,stack the cups,0.20811728335852794,11,92,stack_the_cups_20250731_144508.npz
+137,test,stack the blocks,0.20646130616991618,10,86,stack_the_blocks_20250805_151533.npz
+85,test,put the blue cylinder in the box,0.20540276744837996,61,124,put_the_blue_cylinder_in_the_box_20250723_102952_EDITED.npz
+134,train,move yellow block in to the box,0.2053530982739651,68,125,move_yellow_block_in_to_the_box_20250721_115156_EDITED.npz
+34,train,stack the cups,0.20339043071369545,13,125,stack_the_cups_20250729_144038_EDITED.npz
+14,train,stack the cups,0.20232264668714747,14,173,stack_the_cups_20250730_101425_EDITED.npz
+142,val,stack the cups,0.20123176614675717,23,121,stack_the_cups_20250731_140707.npz
+72,train,place red block in to the cardboard box,0.19982652698806144,65,122,place_red_block_in_to_the_cardboard_box_20250723_101845_EDITED.npz
+401,val,stack the cups,0.19904933274349088,14,130,stack_the_cups_20250729_144323_EDITED.npz
+174,train,stack the cups,0.19778744992780764,55,82,stack_the_cups_20250725_104214_EDITED.npz
+187,train,stack the blocks,0.19694484876943008,10,160,stack_the_blocks_20250805_152912.npz
+432,test,stack the blocks,0.1941686194285988,16,132,stack_the_blocks_20250811_150834.npz
+58,train,stack cups,0.1899325714764054,111,112,stack_cups_20250725_122727_EDITED.npz
+3,train,stack the blocks,0.1898810847156555,81,118,stack_the_blocks_20250813_122754.npz
+155,val,stack the blocks,0.1897094392412956,59,112,stack_the_blocks_20250811_152318.npz
+341,train,stack the blocks,0.18970023891281748,10,134,stack_the_blocks_20250813_123755.npz
+150,train,stack the cups,0.18887727700278978,11,96,stack_the_cups_20250729_132011_EDITED.npz
+313,test,stack the cups,0.18846175340453367,13,149,stack_the_cups_20250728_130736_EDITED.npz
+52,test,stack the blocks,0.18709920494243393,63,94,stack_the_blocks_20250811_151716.npz
+220,val,place the blue cylinder on top of the white cylinder,0.18703377314804395,94,104,place_the_blue_cylinder_on_top_of_the_white_cylinder_20250707_131549_EDITED.npz
+308,val,stack the blocks,0.18669103376833446,16,117,stack_the_blocks_20250813_104945.npz
+88,val,stack the cups,0.18355135835390407,80,261,stack_the_cups_20250709_121943_EDITED.npz
+79,train,place blue cylinder on white cylinder,0.18239804484311314,11,113,place_blue_cylinder_on_white_cylinder_20250717_125204_EDITED.npz
+371,val,remove the white cylinder from the stack,0.1817069501714826,13,122,remove_the_white_cylinder_from_the_stack_20250707_131228_EDITED.npz
+207,train,stack the blocks,0.18054567012413114,132,133,stack_the_blocks_20250813_123023.npz
+415,test,stack the cups,0.18034907778451076,62,92,stack_the_cups_20250725_103146_EDITED.npz
+74,train,stack the cups,0.1802084825652494,73,142,stack_the_cups_20250723_131832_EDITED.npz
+184,train,stack the blocks,0.17896497504351777,64,93,stack_the_blocks_20250813_123526.npz
+57,train,stack the blocks,0.17865132324455094,10,116,stack_the_blocks_20250813_110321.npz
+408,train,stack the cups,0.1785878551508554,65,116,stack_the_cups_20250716_141856_EDITED.npz
+434,train,stack cups,0.17745529972050972,107,108,stack_cups_20250724_153506_EDITED.npz
+122,train,stack cups,0.17692201109044273,66,126,stack_cups_20250724_152117_EDITED.npz
+224,train,stack the cups,0.17668979775177843,10,109,stack_the_cups_20250723_120202_EDITED.npz
+50,train,pick up the cup and transfer it in to the box,0.17608048637043777,68,131,pick_up_the_cup_and_transfer_it_in_to_the_box_20250707_155427_EDITED.npz
+272,val,stack the cups,0.17550113476364454,10,96,stack_the_cups_20250725_125722_EDITED.npz
+338,val,stack the cups,0.1747926369542101,20,134,stack_the_cups_20250728_134450_EDITED.npz
+96,train,stack the blocks,0.17379833364879427,79,153,stack_the_blocks_20250812_112301.npz
+21,train,place red block on blue block,0.17275694277251724,10,145,place_red_block_on_blue_block_20250721_113623_EDITED.npz
+39,val,stack the blocks,0.17247573250275725,90,152,stack_the_blocks_20250811_162116.npz
+61,train,stack the cups,0.1716616080214402,62,112,stack_the_cups_20250725_125400_EDITED.npz
+198,train,remove the yellow cube from the stack,0.17161346650542122,10,130,remove_the_yellow_cube_from_the_stack_20250708_103626_EDITED.npz
+55,test,pick up the cup and place it inside the other cup,0.17157850969449323,13,127,pick_up_the_cup_and_place_it_inside_the_other_cup_20250724_145105_EDITED.npz
+426,train,place the blue block on top of the yellow cube,0.17113541962744735,72,143,place_the_blue_block_on_top_of_the_yellow_cube_20250708_094443_EDITED.npz
+194,train,stack the cups,0.16912548935007463,10,124,stack_the_cups_20250725_104941_EDITED.npz
+209,train,stack the cups,0.16797475152513283,13,138,stack_the_cups_20250731_151106.npz
+73,train,pick up the yellow block and place it in the box,0.16736679807885932,94,95,pick_up_the_yellow_block_and_place_it_in_the_box_20250704_130239_EDITED.npz
+98,val,stack the cups,0.1670426251850734,10,164,stack_the_cups_20250728_121422_EDITED.npz
+128,test,stack the blocks,0.16373139132301304,69,106,stack_the_blocks_20250811_144508.npz
+45,train,pick and transfer the block in to the box,0.16347312181667428,73,137,pick_and_transfer_the_block_in_to_the_box_20250723_101151_EDITED.npz
+393,train,pick and place yellow block on blue block,0.16227939806303407,67,118,pick_and_place_yellow_block_on_blue_block_20250721_120433_EDITED.npz
+306,train,stack the cylinders,0.16210454408448063,65,114,stack_the_cylinders_20250717_123612_EDITED.npz
+435,train,stack the cups,0.16078790353149813,72,136,stack_the_cups_20250724_125431_EDITED.npz
+93,val,stack the blocks,0.15967524453214998,11,125,stack_the_blocks_20250811_151422.npz
+100,train,stack the cups,0.15911415102302937,82,151,stack_the_cups_20250728_122014_EDITED.npz
+53,train,stack the blocks,0.15806884954352965,14,112,stack_the_blocks_20250811_161821.npz
+409,train,stack blue cylinder on top of blue block,0.1580306915612159,77,128,stack_blue_cylinder_on_top_of_blue_block_20250723_114804_EDITED.npz
+392,train,stack the cups,0.15724694633855252,11,151,stack_the_cups_20250728_131336_EDITED.npz
+405,train,stack the cups,0.15714302828015816,10,144,stack_the_cups_20250728_131941_EDITED.npz
+386,test,stack the cups,0.15656798898778848,58,109,stack_the_cups_20250724_153727_EDITED.npz
+381,test,stack the cups,0.15621327690464792,16,125,stack_the_cups_20250728_134740_EDITED.npz
+376,train,stack the blue cylinder on white cylinder,0.15171328301031944,10,106,stack_the_blue_cylinder_on_white_cylinder_20250723_093347_EDITED.npz
+163,train,stack the blocks,0.15140973212440975,109,110,stack_the_blocks_20250723_092213_EDITED.npz
+135,train,stack the cups,0.15101516170777593,10,139,stack_the_cups_20250724_152705_EDITED.npz
+229,test,stack the cups,0.1509826717286002,10,152,stack_the_cups_20250728_104406_EDITED.npz
+192,train,stack the blocks,0.15054164341752452,11,118,stack_the_blocks_20250730_122348_EDITED.npz
+77,test,pick and place red block on blue block,0.15015050770884553,58,111,pick_and_place_red_block_on_blue_block_20250718_101526_EDITED.npz
+241,train,stack the blocks,0.1494290522243829,10,107,stack_the_blocks_20250718_101855_EDITED.npz
+331,test,pick and stack the cups,0.14894798580303192,63,95,pick_and_stack_the_cups_20250725_121913_EDITED.npz
+437,train,pick and stack blue cylinder on the blue block,0.148349211206344,103,104,pick_and_stack_blue_cylinder_on_the_blue_block_20250723_102715_EDITED.npz
+59,train,transfer the blue object in the box,0.1482400531739644,109,119,transfer_the_blue_object_in_the_box_20250704_120356_EDITED.npz
+26,train,pick up the red block and move it next to the blue block,0.14724613804225814,105,106,pick_up_the_red_block_and_move_it_next_to_the_blue_block_20250704_125107_EDITED.npz
+12,train,stack blue cylinder on the yellow block,0.14706724116317094,66,117,stack_blue_cylinder_on_the_yellow_block_20250723_120755_EDITED.npz
+175,train,stack the cups,0.1463392124547964,10,144,stack_the_cups_20250730_102939_EDITED.npz
+116,train,transfer the blue block in between the red and yellow blocks,0.14446990353651198,79,118,transfer_the_blue_block_in_between_the_red_and_yellow_blocks_20250708_102922_EDITED.npz
+265,train,stack blue block on the red block,0.1442073283212142,10,104,stack_blue_block_on_the_red_block_20250718_113109_EDITED.npz
+275,train,stack the cups,0.14335817881703378,62,91,stack_the_cups_20250729_131747_EDITED.npz
+226,train,stack the cups,0.14242581263181556,14,133,stack_the_cups_20250731_105255.npz
+248,test,stack the cups,0.14235055949879857,76,116,stack_the_cups_20250728_130325_EDITED.npz
+361,test,pick and place the red block on top of the blue block,0.14038255216018056,63,119,pick_and_place_the_red_block_on_top_of_the_blue_block_20250707_131916_EDITED.npz
+356,train,stack the blocks,0.140094538707281,10,114,stack_the_blocks_20250805_134441.npz
+383,train,stack the cups,0.13942149738866264,10,163,stack_the_cups_20250731_150605.npz
+398,train,stack the cups,0.13881339488154715,56,104,stack_the_cups_20250724_122037_EDITED.npz
+168,train,stack the cups,0.13865659095079963,54,119,stack_the_cups_20250716_140919_EDITED.npz
+433,train,stack the blocks,0.13819789875182675,126,129,stack_the_blocks_20250812_115859.npz
+269,train,stack the cups,0.13816933644122736,10,138,stack_the_cups_20250725_103957_EDITED.npz
+193,train,pick and place the yellow block on the blue and red blocks,0.13695849725116133,13,111,pick_and_place_the_yellow_block_on_the_blue_and_red_blocks_20250708_100912_EDITED.npz
+169,train,stack the cups,0.13531663076965122,10,113,stack_the_cups_20250731_140430.npz
+108,train,stack cups,0.13457431632668304,64,124,stack_cups_20250724_125936_EDITED.npz
+253,train,stack the cups,0.13457085090702917,57,114,stack_the_cups_20250724_124649_EDITED.npz
+9,train,stack cups,0.13280840437728325,10,114,stack_cups_20250724_125707_EDITED.npz
+16,train,stack the cups,0.13241135688176836,10,180,stack_the_cups_20250728_095452_EDITED.npz
+215,train,stack the blocks,0.13224224101828713,89,153,stack_the_blocks_20250730_122040_EDITED.npz
+24,train,stack the cups,0.1317588953561351,17,126,stack_the_cups_20250724_151819_EDITED.npz
+254,train,place white cylinder on top of the blue cylinder,0.13135230094493863,60,108,place_white_cylinder_on_top_of_the_blue_cylinder_20250717_125737_EDITED.npz
+200,val,stack the cups,0.1313237091101394,59,116,stack_the_cups_20250724_130812_EDITED.npz
+136,test,stack the cups,0.13096485331202082,25,114,stack_the_cups_20250728_133558_EDITED.npz
+337,val,stack the cups,0.13023011077982444,10,116,stack_the_cups_20250729_135144_EDITED.npz
+280,train,stack the blocks,0.13012838009502808,77,118,stack_the_blocks_20250811_153143.npz
+277,train,pick up and stack the cups inside each other,0.12939163989223712,66,124,pick_up_and_stack_the_cups_inside_each_other_20250724_153007_EDITED.npz
+370,train,stack the cups,0.12917501295608277,10,129,stack_the_cups_20250725_105604_EDITED.npz
+23,train,stack the blocks,0.12866795947951304,74,138,stack_the_blocks_20250811_161456.npz
+298,test,stack the cups,0.12822069468679473,17,125,stack_the_cups_20250731_141018.npz
+302,train,stack the cups in each other,0.12792182933430302,109,110,stack_the_cups_in_each_other_20250724_144751_EDITED.npz
+441,val,pick and place the cups inside eachother,0.12788780673892206,111,112,pick_and_place_the_cups_inside_eachother_20250725_122155_EDITED.npz
+31,test,stack the blocks,0.12682464493441148,76,130,stack_the_blocks_20250813_105234.npz
+206,train,place the yellow cube on the red block,0.12388235420150434,55,110,place_the_yellow_cube_on_the_red_block_20250708_102216_EDITED.npz
+289,train,stack the cups,0.12380833841300677,58,102,stack_the_cups_20250729_125530_EDITED.npz
+232,test,stack the cups,0.12372364528447784,60,101,stack_the_cups_20250725_125130_EDITED.npz
+172,train,stack the cups,0.1235166123327993,10,137,stack_the_cups_20250724_152427_EDITED.npz
+20,train,stack the blocks,0.12342767927782122,13,136,stack_the_blocks_20250813_113044.npz
+202,val,stack the blocks,0.12323957980411158,87,141,stack_the_blocks_20250730_123418_EDITED.npz
+181,val,take the cup from the box and place it in the other cup,0.12271019109966995,11,120,take_the_cup_from_the_box_and_place_it_in_the_other_cup_20250708_095759_EDITED.npz
+64,train,stack the blocks,0.12185046964601554,56,108,stack_the_blocks_20250721_113854_EDITED.npz
+287,train,stack the blocks,0.12171216448934886,10,119,stack_the_blocks_20250730_122621_EDITED.npz
+17,train,stack the cups,0.12160081173571972,68,98,stack_the_cups_20250725_122519_EDITED.npz
+208,train,stack the blocks,0.12154541917122326,102,103,stack_the_blocks_20250718_105156_EDITED.npz
+144,train,pick and put yellow block on top of blue block,0.12099908734639121,14,115,pick_and_put_yellow_block_on_top_of_blue_block_20250723_120502_EDITED.npz
+343,train,place the red block on top of the blue block,0.1206080149907966,75,133,place_the_red_block_on_top_of_the_blue_block_20250704_124604_EDITED.npz
+8,train,stack cups,0.12036916625273937,14,120,stack_cups_20250728_131649_EDITED.npz
+283,train,stack the cups,0.11994193087396904,10,112,stack_the_cups_20250731_110110.npz
+310,train,stack the cups,0.1195599456188001,10,124,stack_the_cups_20250730_113826_EDITED.npz
+299,val,stack the blocks,0.11949365090087462,13,113,stack_the_blocks_20250730_120631_EDITED.npz
+311,train,stack the blocks,0.1182743106709448,62,90,stack_the_blocks_20250805_153159.npz
+40,train,stack the cups,0.11766027123169705,64,124,stack_the_cups_20250725_104443_EDITED.npz
+327,train,stack the cups,0.11759053275608297,10,146,stack_the_cups_20250728_100755_EDITED.npz
+28,train,stack the cups,0.11682660083947034,71,109,stack_the_cups_20250725_123039_EDITED.npz
+178,train,stack the cups,0.11567384147519927,71,163,stack_the_cups_20250731_143931.npz
+412,test,stack cups,0.11545401318953434,105,106,stack_cups_20250721_113218_EDITED.npz
+399,train,stack the cups,0.11525854015700905,59,107,stack_the_cups_20250716_141616_EDITED.npz
+350,train,stack the cups,0.11510242718753744,58,116,stack_the_cups_20250725_102749_EDITED.npz
+7,train,pick and place the cups inside each other,0.11421154300776283,58,107,pick_and_place_the_cups_inside_each_other_20250724_123659_EDITED.npz
+258,train,stack the cups,0.1137723722918507,13,133,stack_the_cups_20250730_102125_EDITED.npz
+130,train,stack the blocks,0.11368243772970205,86,156,stack_the_blocks_20250805_151309.npz
+212,train,stack the cups,0.1135604572141347,10,176,stack_the_cups_20250728_120526_EDITED.npz
+70,train,stack the blocks,0.11353495646954173,61,98,stack_the_blocks_20250805_152632.npz
+94,train,stack the cups,0.1124805875625204,68,103,stack_the_cups_20250731_141637.npz
+43,train,stack the cups,0.11208053866267924,10,157,stack_the_cups_20250729_124553_EDITED.npz
+422,train,stack cups,0.1105765111899575,62,132,stack_cups_20250724_133606_EDITED.npz
+32,train,stack the cups,0.11052053540005358,120,130,stack_the_cups_20250731_110332.npz
+223,val,stack the cups,0.11013786929219603,15,128,stack_the_cups_20250729_132827_EDITED.npz
+380,train,stack the cups,0.10987895533002032,70,132,stack_the_cups_20250730_102359_EDITED.npz
+104,train,remove the blue block from the stack,0.1098374215941411,64,125,remove_the_blue_block_from_the_stack_20250704_152632_EDITED.npz
+138,train,stack the cups,0.10966164320680516,58,132,stack_the_cups_20250730_102643_EDITED.npz
+199,train,stack the blocks,0.10909352664906093,135,136,stack_the_blocks_20250811_151140.npz
+394,val,stack the cups,0.10905491030193683,65,127,stack_the_cups_20250725_102537_EDITED.npz
+80,train,stack the  cups,0.10813354709872881,59,110,stack_the__cups_20250724_095231_EDITED.npz
+328,train,put the cup inside the other cup,0.1070579927005987,66,102,put_the_cup_inside_the_other_cup_20250704_145132_EDITED.npz
+139,train,stack the cups,0.10695375241428584,51,110,stack_the_cups_20250725_110910_EDITED.npz
+379,train,stack the cups,0.10627143360942631,65,101,stack_the_cups_20250725_110253_EDITED.npz
+263,train,stack the blocks,0.10572510139865704,62,96,stack_the_blocks_20250812_114944.npz
+251,train,stack the cups,0.10496496069211447,11,118,stack_the_cups_20250729_130053_EDITED.npz
+110,train,stack the white cylinder on top of the blue block,0.10438364513970506,54,99,stack_the_white_cylinder_on_top_of_the_blue_block_20250708_105256_EDITED.npz
+5,val,stack the cups,0.10390769865100997,10,114,stack_the_cups_20250731_145835.npz
+177,train,stack the cups,0.10372165789525163,10,116,stack_the_cups_20250731_105031.npz
+125,train,pick and put blue cylinder in the box,0.10356989157377532,56,117,pick_and_put_blue_cylinder_in_the_box_20250723_100554_EDITED.npz
+442,train,stack the blocks,0.10254342471664375,60,107,stack_the_blocks_20250805_140839.npz
+152,train,stack the cups,0.10048738128699101,142,146,stack_the_blocks_20250728_135019_EDITED_stack_the_cups.npz
+0,test,stack the cups,0.09992199487905941,31,173,stack_the_cups_20250728_102449_EDITED.npz
+227,test,stack the cups,0.09949140204410768,66,116,stack_the_cups_20250731_105539.npz
+29,train,stack the blocks,0.09910983870741831,22,118,stack_the_blocks_20250805_152112.npz
+105,train,pick and stack the cup in the other cup,0.09887026367503494,61,113,pick_and_stack_the_cup_in_the_other_cup_20250724_131814_EDITED.npz
+352,train,stack the blocks,0.09852268189078406,61,169,stack_the_blocks_20250813_104714.npz
+402,test,stack the blocks,0.09849922460972509,82,156,stack_the_blocks_20250811_153519.npz
+10,train,stack the cups,0.0981812673838303,58,107,stack_the_cups_20250730_101658_EDITED.npz
+430,train,stack the cups,0.09813356696440359,78,93,stack_the_cups_20250725_124002_EDITED.npz
+180,train,stack the cups,0.09767862151849803,10,177,stack_the_cups_20250728_133142_EDITED.npz
+320,val,stack the cups,0.09741479006259915,10,94,stack_the_cups_20250731_143638.npz
+423,train,stack the cups,0.09736589953143522,65,165,stack_the_cups_20250731_105830.npz
+11,train,stack the cups,0.09649613032015834,101,102,stack_the_cups_20250716_141131_EDITED.npz
+92,train,pick and place the white cylinder in the cup,0.09599282477673328,113,119,pick_and_place_the_white_cylinder_in_the_cup_20250707_132219_EDITED.npz
+366,train,stack the cups,0.09592107039498943,10,147,stack_the_cups_20250728_103312_EDITED.npz
+323,train,stack the blocks,0.09526533044549018,13,156,stack_the_blocks_20250812_113306.npz
+176,train,stack the cups,0.095073438188274,10,98,stack_the_cups_20250730_101901_EDITED.npz
+400,train,stack the cups,0.09496860243046783,64,124,stack_the_cups_20250724_125151_EDITED.npz
+363,train,stack the blocks,0.09494376736826068,65,145,stack_the_blocks_20250811_152008.npz
+201,test,stack the cups,0.0949030483331986,16,175,stack_the_cups_20250728_101715_EDITED.npz
+91,train,stack the cups,0.09468506003095255,11,159,stack_the_cups_20250728_132516_EDITED.npz
+47,train,stack the cups,0.0945208085799785,69,129,stack_the_cups_20250728_095746_EDITED.npz
+276,train,stack the cups,0.09417343014012854,11,145,stack_the_cups_20250730_114626_EDITED.npz
+60,train,pick and place the red block on the blue block,0.09382588200663733,59,138,pick_and_place_the_red_block_on_the_blue_block_20250708_092739_EDITED.npz
+354,train,stack the cups,0.0936922525911144,81,161,stack_the_cups_20250728_130049_EDITED.npz
+228,train,pick and stack the cups inside each other,0.09351845068493352,11,142,pick_and_stack_the_cups_inside_each_other_20250724_133130_EDITED.npz
+419,train,stack the blocks,0.09334747924857166,17,116,stack_the_blocks_20250730_123710_EDITED.npz
+374,train,place the yellow block on top of the blue cylinder,0.09211201417075522,106,167,place_the_yellow_block_on_top_of_the_blue_cylinder_20250707_125853_EDITED.npz
+282,train,stack the blocks,0.09135160835500758,108,194,stack_the_blocks_20250805_140531.npz
+278,train,stack the blocks,0.0909336733416304,10,113,stack_the_blocks_20250812_115241.npz
+151,train,stack the cups,0.09047866967857467,119,124,stack_the_cups_20250731_141905.npz
+35,train,stack the cups,0.09039264393839981,10,102,stack_the_cups_20250725_124533_EDITED.npz
+147,train,stack the cups,0.08984924992730982,11,102,stack_the_cups_20250729_125048_EDITED.npz
+257,train,place yellow block on top of the blue block,0.08944434418526911,64,138,place_yellow_block_on_top_of_the_blue_block_20250718_102332_EDITED.npz
+133,val,stack the cups,0.08857081443109006,121,129,stack_the_cups_20250725_124801_EDITED.npz
+86,train,stack the blocks,0.08846774160496644,75,118,stack_the_blocks_20250811_153843.npz
+170,train,stack the cups,0.0878433806598342,86,168,stack_the_cups_20250728_102730_EDITED.npz
+190,train,stack the cups in each other,0.08716320466766371,63,112,stack_the_cups_in_each_other_20250725_121258_EDITED.npz
+324,train,stack the cups,0.08648929445585227,13,129,stack_the_cups_20250728_132233_EDITED.npz
+188,train,stack the cups,0.08605890115046018,60,125,stack_the_cups_20250725_101914_EDITED.npz
+38,test,stack the cups,0.08580479525395276,10,156,stack_the_cups_20250729_132236_EDITED.npz
+103,train,stack the blocks,0.0853317241759147,83,166,stack_the_blocks_20250730_124537_EDITED.npz
+424,train,stack the cups,0.08458481565464104,60,98,stack_the_cups_20250725_104706_EDITED.npz
+82,train,stack the cups,0.08422207429963786,13,156,stack_the_cups_20250730_104926_EDITED.npz
+315,train,stack the cups,0.08417311881226557,60,114,stack_the_cups_20250724_153240_EDITED.npz
+339,test,stack the cups,0.08269398055171626,79,144,stack_the_cups_20250729_125759_EDITED.npz
+325,val,stack the cups,0.08179232581321996,73,130,stack_the_cups_20250725_121523_EDITED.npz
+279,train,stack the cups,0.08164387225837033,103,161,stack_the_cups_20250730_115252_EDITED.npz
+160,val,stack the blocks,0.08152884680709518,88,144,stack_the_blocks_20250813_103228.npz
+173,train,stack the cups,0.08097640707992797,82,161,stack_the_cups_20250728_100151_EDITED.npz
+97,train,stack the cups,0.08092301289852565,11,119,stack_the_cups_20250730_114349_EDITED.npz
+294,train,stack cups,0.08028250138483876,112,117,stack_cups_20250725_123735_EDITED.npz
+118,train,stack the blocks,0.08014917575388673,63,115,stack_the_blocks_20250813_104107.npz
+414,train,stack the cups,0.07973921319477469,55,86,stack_the_cups_20250725_105330_EDITED.npz
+123,train,stack the cups,0.07895237077617973,13,143,stack_the_cups_20250729_130317_EDITED.npz
+256,train,stack the cups,0.07872192843429698,56,110,stack_the_cups_20250716_140656_EDITED.npz
+378,train,stack cups,0.0786676756018825,62,128,stack_cups_20250724_134042_EDITED.npz
+157,train,stack the cups,0.07774373965188595,72,160,stack_the_cups_20250728_120241_EDITED.npz
+244,train,stack the cups,0.0771766927934561,95,138,stack_the_cups_20250730_115553_EDITED.npz
+373,train,stack the blocks,0.0766952238692381,14,103,stack_the_blocks_20250805_151040.npz
+120,train,stack the cups,0.07627570539489668,14,126,stack_the_cups_20250729_133425_EDITED.npz
+156,train,pick and stack the cups,0.07620964878046443,111,112,pick_and_stack_the_cups_20250724_124921_EDITED.npz
+195,train,stack the cups,0.07552606309204189,10,147,stack_the_cups_20250729_131100_EDITED.npz
+260,train,stack cups,0.07515300400146428,65,124,stack_cups_20250717_121701_EDITED.npz
+87,train,stack blue block on white cylinder,0.0748821995500347,110,111,stack_blue_block_on_white_cylinder_20250723_134652_EDITED.npz
+191,train,stack the blocks,0.07396630846206938,76,103,stack_the_blocks_20250730_123136_EDITED.npz
+37,train,stack the blocks,0.07341101716329236,127,152,stack_the_blocks_20250812_114322.npz
+262,train,stack the blocks,0.07340087621666715,80,154,stack_the_blocks_20250805_152358.npz
+326,train,stack the cups,0.07337656044787717,92,173,stack_the_cups_20250731_150105.npz
+411,train,stack the cups,0.0732385690581969,10,132,stack_the_cups_20250728_100441_EDITED.npz
+438,train,stack the cups,0.07290104576359285,116,117,stack_the_cups_20250730_103247_EDITED.npz
+182,train,stack the cups,0.07262493617415731,112,113,stack_the_cups_20250731_145318.npz
+149,train,stack the cups,0.07234971103415488,62,115,stack_the_cups_20250721_112814_EDITED.npz
+439,train,stack cups,0.0721874916318784,97,137,stack_cups_20250728_101107_EDITED.npz
+271,train,stack the cups,0.07209583200937707,11,114,stack_the_cups_20250724_123927_EDITED.npz
+67,train,stack the blocks,0.07183086688753815,15,146,stack_the_blocks_20250813_103747.npz
+390,train,place the cup in the other cup,0.07152482314137726,107,111,place_the_cup_in_the_other_cup_20250724_124422_EDITED.npz
+211,train,stack yellow block on red block,0.07013546254711363,10,116,stack_yellow_block_on_red_block_20250721_120711_EDITED.npz
+250,train,stack the cups,0.06976367808853157,66,115,stack_the_cups_20250730_104059_EDITED.npz
+127,train,stack the blocks,0.06868467483636194,13,155,stack_the_blocks_20250730_120902_EDITED.npz
+146,train,stack the cups inside eachother,0.06814873202674614,64,96,stack_the_cups_inside_eachother_20250725_120631_EDITED.npz
+197,train,pick and stack the cup inside other cup,0.06803056694481961,16,135,pick_and_stack_the_cup_inside_other_cup_20250724_132714_EDITED.npz
+76,train,stack the cups,0.06766006544203726,14,197,stack_the_cups_20250730_115850_EDITED.npz
+340,train,stack the cups,0.06749480776853105,84,159,stack_the_cups_20250729_131411_EDITED.npz
+284,train,stack the blocks,0.06728708928838566,70,130,stack_the_blocks_20250812_112027.npz
+140,train,stack the blocks,0.06640928658538281,27,144,stack_the_blocks_20250813_122521.npz
+106,train,stack the blocks,0.06572113600144863,10,156,stack_the_blocks_20250730_123946_EDITED.npz
+119,test,stack the cups,0.0656392435304996,11,153,stack_the_cups_20250728_101426_EDITED.npz
+4,train,stack the cups,0.06428482117517065,58,89,stack_the_cups_20250725_103737_EDITED.npz
+377,train,stack the cups,0.0633463892735277,10,166,stack_the_cups_20250716_135800_EDITED.npz
+66,train,stack the blocks,0.06168369653922023,90,157,stack_the_blocks_20250805_150739.npz
+335,train,pick and place the yellow block on top of the white cylinder,0.0613951807741426,10,155,pick_and_place_the_yellow_block_on_top_of_the_white_cylinder_20250707_132757_EDITED.npz
+186,train,stack the blocks,0.061303343858004906,79,156,stack_the_blocks_20250813_111505.npz
+332,train,stack the cups,0.06112688155027399,13,115,stack_the_cups_20250728_132858_EDITED.npz
+410,train,stack the cups,0.060813781948349035,83,185,stack_the_cups_20250729_144606_EDITED.npz
+217,train,stack cups,0.06035222265121384,76,149,stack_cups_20250724_130450_EDITED.npz
+102,train,stack the cups,0.06002708010492443,64,132,stack_the_cups_20250728_123017_EDITED.npz
+238,train,stack the cups,0.05943443261095,113,118,stack_the_cups_20250724_123113_EDITED.npz
+247,train,stack the cups,0.0589178111338722,77,135,stack_the_cups_20250730_114052_EDITED.npz
+406,train,stack the cups,0.058369133998043374,102,144,stack_the_cups_20250729_145223_EDITED.npz
+95,train,stack the blocks,0.05832153688362857,60,163,stack_the_blocks_20250805_153445.npz
+288,train,stack the cups,0.05807679751106566,13,107,stack_the_cups_20250728_122638_EDITED.npz
+210,train,stack the cups,0.05571490706800354,65,142,stack_the_cups_20250728_105415_EDITED.npz
+161,train,stack the cups,0.055588498085743336,30,121,stack_the_cups_20250725_125933_EDITED.npz
+68,train,stack the blocks,0.054910597000708536,24,134,stack_the_blocks_20250813_112629.npz
+297,val,stack the blocks,0.052569077362428426,68,165,stack_the_blocks_20250813_133137.npz
+230,train,stack the blocks,0.04805624644864919,114,175,stack_the_blocks_20250805_151824.npz
+243,train,stack the cups,0.04772022363355216,58,103,stack_the_cups_20250728_134228_EDITED.npz
+236,train,stack the cups,0.0470580697681118,59,124,stack_the_cups_20250729_125306_EDITED.npz
+382,train,stack the cups,0.04355661359437949,146,164,stack_the_cups_20250728_115956_EDITED.npz
+141,train,stack the cups,0.04147053488378235,105,155,stack_the_cups_20250729_130818_EDITED.npz
+183,train,stack the cups,0.04001735538628242,105,171,stack_the_cups_20250729_124833_EDITED.npz
+375,train,stack the cups,0.031664061926471566,13,135,stack_the_cups_20250729_124254_EDITED.npz
