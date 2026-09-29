@@ -1,0 +1,14 @@
+# Core (needed for both notebooks)
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+torch>=2.2
+scikit-learn>=1.5
+
+# Only needed to read the full dataset (camera images, or re-creating processed/robot_motion.npz)
+tensorflow>=2.16
+tensorflow-datasets>=4.9
+
+# Running the notebooks
+jupyter
+ipykernel
