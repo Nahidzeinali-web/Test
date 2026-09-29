@@ -1,0 +1,11 @@
+{
+    // Don't sync with GitHub automatically or from the Source Control action button.
+    "git.autofetch": false,
+    "git.postCommitCommand": "none",
+    "git.confirmSync": true,
+    "git.showActionButton": {
+        "commit": true,
+        "publish": false,
+        "sync": false
+    }
+}
