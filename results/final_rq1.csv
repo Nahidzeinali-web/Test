@@ -1,0 +1,6 @@
+method,1 step ahead [mm],10 steps ahead [mm]
+GRU forecaster,1.0 ± 0.1,15.6 ± 1.3
+Transformer forecaster,0.9 ± 0.0,16.7 ± 0.7
+Uncertainty-aware GRU,1.1 ± 0.1,17.6 ± 0.8
+Rule: keeps its speed,1.6 ± 0.1,59.2 ± 1.7
+Rule: stays still,6.8 ± 0.2,66.0 ± 1.5

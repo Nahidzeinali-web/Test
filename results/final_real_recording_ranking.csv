@@ -1,0 +1,444 @@
+recording,task,peak / threshold,peak at step,length,split (seed 0)
+293,stack red and yellow blocks,86.59301366680958,74,129,test
+436,stack the cups,2.970403965166678,11,152,test
+416,stack the cups,2.7813749579763365,13,121,test
+154,place the yellow block on the blue block,2.3254319731140685,26,115,train
+204,stack the cups,1.8970243746256048,72,141,val
+353,stack white cylinder on blue cylinder,1.6866399178530314,79,96,val
+31,stack the blocks,1.0933653449492144,18,130,test
+124,stack the cups,1.0917312526828964,91,104,test
+18,stack the cups,1.0801389532879422,125,153,val
+407,stack the blocks,1.012368669725045,26,164,val
+338,stack the cups,0.9628939908248656,14,134,val
+89,stack the blocks,0.8939852305326919,62,82,test
+351,place white cylinder in the box,0.8644796994832534,38,85,train
+365,stack the objects,0.8407460399986131,202,313,val
+246,place blue block on yellow block,0.7721148245793149,44,101,test
+367,stack the cylinders on top of the yellow block,0.757536299093954,39,153,test
+305,stack the blocks,0.7058739679785355,18,124,test
+54,stack the cups,0.6207555731602623,10,157,val
+44,drop yellow block into the box,0.6190164797149329,58,115,test
+347,pick and place white cylinder on red block,0.6140573782275754,76,87,test
+300,stack the cups,0.6121388545163584,72,116,test
+440,stack the cups,0.6068216502143676,13,159,train
+261,pick and stack the cups inside each otherpick and stack the cups inside each other,0.602375452102395,106,107,train
+402,stack the blocks,0.5626346564754741,30,156,test
+336,place the cup in to the box,0.5493857978711918,83,175,val
+205,pick and place the yellow block in the box,0.5345471620880248,64,110,val
+219,stack the cups,0.5230367354106795,87,163,val
+56,stack the blocks,0.5224331783029494,10,115,train
+93,stack the blocks,0.5198553310329368,23,125,val
+36,pick up the blue block and drop it in the box,0.5164331082120396,59,90,test
+158,stack the cups,0.5069581839270878,75,134,train
+237,stack the cups,0.5041258000754992,68,124,train
+352,stack the blocks,0.4978211215245628,59,169,train
+233,pick and place white cylinder on blue cylinder,0.48965254994239804,110,117,train
+357,stack the blocks,0.48624634608488015,20,101,test
+65,stack the cup inside the other cup,0.482632366135584,57,111,train
+404,stack the blocks,0.48239614549201104,11,133,val
+81,unstack the white cylinder,0.48066746318320847,72,113,train
+88,stack the cups,0.4793853924753551,114,261,val
+189,unstack the blocks,0.47364359060135686,116,227,test
+240,stack the cups,0.4708718213496156,10,178,train
+39,stack the blocks,0.47068305880366434,90,152,val
+249,stack the cups,0.4675335186704267,101,102,train
+342,stack the cups,0.46463254884726435,122,123,train
+62,rotate the red block 90 degrees,0.46454019997850926,46,140,train
+287,stack the blocks,0.4590041570741998,12,119,train
+132,pick and drop red block in to the cardboard box,0.4552366807307235,56,116,train
+413,stack the cylinders,0.4542925620245719,42,102,train
+187,stack the blocks,0.4496433809384345,49,160,train
+49,unstack the yellow block,0.4459494761829696,46,106,train
+59,transfer the blue object in the box,0.4452946703892565,103,119,train
+288,stack the cups,0.44343153205331365,10,107,train
+27,remove blue block from the stack,0.44296323131771353,56,108,val
+43,stack the cups,0.4424032968741763,10,157,train
+202,stack the blocks,0.4417124819930184,90,141,val
+427,stack the cups,0.44084711723385206,10,152,test
+273,pick and place yellow block on blue block,0.43281300961790653,10,130,val
+76,stack the cups,0.4276642551203333,120,197,train
+133,stack the cups,0.4258163022040789,128,129,val
+304,pick and place blue block on yellow block,0.42266692074513607,45,89,train
+32,stack the cups,0.42081158738211544,129,130,train
+142,stack the cups,0.4201910545923858,29,121,val
+138,stack the cups,0.4142276729165984,131,132,train
+306,stack the cylinders,0.4111211904855271,88,114,train
+126,pick and place red block on blue block. place cylinders next to each other on red block.,0.41092840110997225,216,315,val
+166,stack the cups,0.41088550176024624,150,196,val
+334,pick and stack the cup inside the other cup,0.4091634616813666,16,95,train
+313,stack the cups,0.4091206007293996,10,149,test
+296,stack the cups,0.406329528107766,14,138,train
+75,transfer the yellow and red blocks in to the box,0.4062435866479387,67,216,val
+271,stack the cups,0.4046808873608516,113,114,train
+391,stack the cups,0.4028487180309732,74,157,val
+316,stack the cups,0.4007968755120383,10,109,test
+417,stack the blocks,0.39804946153078413,37,118,test
+286,pick and place red block on the blue block,0.3973511698610637,88,89,train
+318,stack the cups,0.395133310257473,64,111,train
+364,stack white cylinder on blue block,0.389741908002748,47,90,train
+418,stack the cups,0.3894624168038639,85,106,train
+222,stack the cups,0.3889343309412433,112,113,test
+268,stack the cups,0.3882357394103639,115,195,train
+329,stack the cups',0.38555139390171533,31,93,val
+90,stack the cups,0.38157060795224845,88,95,val
+171,unstack the blocks,0.3809816844982174,60,202,train
+162,stack cups,0.38095095125061335,89,191,val
+314,stack the cups,0.37746472228751143,57,92,train
+244,stack the cups,0.37593133166613224,124,138,train
+215,stack the blocks,0.37352539249195277,10,153,train
+301,stack the blocks. place blue cylinder on top,0.3708382339029835,14,192,train
+372,stack the blocks,0.3695625115258665,81,112,test
+63,stack the cups,0.3679233217339416,61,97,test
+6,stack the cups,0.3679172511279233,111,117,train
+17,stack the cups,0.3666518705097959,97,98,train
+221,stack the cups inside eachother,0.36647067819751256,102,103,train
+151,stack the cups,0.3652638105226407,117,124,train
+196,put white cylinder on top of blue block,0.36411388208318485,54,85,train
+68,stack the blocks,0.3588236287907743,51,134,train
+321,stack the cylinders,0.35673285345763045,44,83,test
+159,pick and drop the cylinders in the box,0.35501026771778016,111,230,test
+167,drop the cylinders in the cups,0.354993308128508,82,180,test
+410,stack the cups,0.35470503616521887,12,185,train
+312,pick and place red block on the blue block,0.35295364286931963,97,98,train
+368,place blue block in the box,0.3518063609862148,94,132,test
+198,remove the yellow cube from the stack,0.3494678297423009,71,130,train
+396,stack the blocks,0.3478787085029963,10,134,test
+203,stack the cups,0.3459022756476661,49,95,test
+117,stack the cups,0.34540888677876064,11,194,train
+341,stack the blocks,0.3445117382932216,18,134,train
+58,stack cups,0.3416508783591612,111,112,train
+12,stack blue cylinder on the yellow block,0.3406122999548079,96,117,train
+264,stack the blocks,0.34026200118329464,11,108,train
+94,stack the cups,0.3377175788305168,65,103,train
+270,drop the blue block in the cardboard box,0.3373078342739672,57,108,train
+235,stack the cups,0.33580263789690434,90,156,val
+431,stack the blue cylinder on the white cylinder,0.33578590339125,70,118,test
+80,stack the  cups,0.32748302919928224,15,110,train
+211,stack yellow block on red block,0.3269022255187478,115,116,train
+255,stack the blocks,0.3268528559001117,118,119,test
+131,rotate the blue block 45 degrees,0.3257638620912143,43,109,train
+281,stack the cups,0.32366969215809477,112,113,val
+15,stack the cups,0.32341592596604546,16,134,test
+143,place white cylinder on the yellow block,0.3217342294562971,94,95,train
+223,stack the cups,0.32160109646594137,48,128,val
+84,stack the cups,0.3209241281661613,16,111,val
+245,stack the blue block on the yellow block,0.31881288076837117,57,104,train
+247,stack the cups,0.31855872638907756,134,135,train
+234,stack the blocks,0.31694148235716746,10,93,val
+387,stack the yellow block on the red block,0.3118312195184951,121,122,val
+172,stack the cups,0.310826989110236,129,137,train
+194,stack the cups,0.3082725217841285,123,124,train
+64,stack the blocks,0.3082247175855769,92,108,train
+195,stack the cups,0.30820943957906194,10,147,train
+276,stack the cups,0.3078053786520725,144,145,train
+260,stack cups,0.30744855309935376,115,124,train
+25,stack the cups,0.3041804477565607,56,112,train
+389,stack the cups,0.3036891891765303,16,163,train
+393,pick and place yellow block on blue block,0.3025816674475361,64,118,train
+285,stack the cups,0.3013256301240501,15,166,val
+152,stack the cups,0.29875481659192626,145,146,train
+0,stack the cups,0.2947969131065097,30,173,test
+266,remove the red object from the pile,0.2944027830017683,68,114,test
+87,stack blue block on white cylinder,0.29384934336855073,95,111,train
+437,pick and stack blue cylinder on the blue block,0.2920972134191019,103,104,train
+213,stack the blocks,0.2906506164032421,90,182,train
+279,stack the cups,0.29048676320039185,10,161,train
+1,pick and place the blue cylinder and the yellow block in to the box,0.2903034625262135,104,207,train
+130,stack the blocks,0.29016625378436206,85,156,train
+155,stack the blocks,0.2890856447157225,89,112,val
+307,stack the cups,0.2881053742332741,10,180,train
+101,stack blocks,0.28687413594618133,53,122,train
+412,stack cups,0.2861042733005924,14,106,test
+34,stack the cups,0.28575234210066464,124,125,train
+51,place the cup inside the other cup,0.28375536242613636,50,110,train
+26,pick up the red block and move it next to the blue block,0.2830618756157602,69,106,train
+430,stack the cups,0.28246464166258817,71,93,train
+175,stack the cups,0.28201168909779567,10,144,train
+100,stack the cups,0.28186224087098405,82,151,train
+265,stack blue block on the red block,0.2816775268261764,10,104,train
+434,stack cups,0.2813146345296941,107,108,train
+330,pick up the red block and remove it from the cardboard box,0.28127977478485966,105,152,test
+214,stack the blocks,0.2812385588417332,41,134,train
+114,place cup inside other cup,0.28029221440405944,53,100,train
+216,stack the blocks,0.2797645130503454,67,108,train
+398,stack the cups,0.27851141719138545,103,104,train
+433,stack the blocks,0.27754774217342426,128,129,train
+259,stack the blocks,0.2759254967363226,10,119,train
+376,stack the blue cylinder on white cylinder,0.2758842266143463,105,106,train
+349,stack the cups,0.27531746520659,149,151,train
+258,stack the cups,0.2736097953868819,132,133,train
+66,stack the blocks,0.2719622269699357,48,157,train
+140,stack the blocks,0.27180536997315713,27,144,train
+42,stack the cups. do not knock over the tower,0.2712225674417395,54,92,train
+99,stack the blocks,0.2702074426859841,45,150,test
+420,stack the blocks,0.2700425658247265,97,197,val
+207,stack the blocks,0.26991327255919406,132,133,train
+13,stack the cups,0.2697664880006671,10,148,train
+229,stack the cups,0.26920088827327915,151,152,test
+425,stack cylinders,0.26883799061255426,49,95,train
+272,stack the cups,0.2683447242629488,72,96,val
+397,stack the cups,0.26723517274544095,97,98,train
+303,place the items in the box,0.2667972467114723,233,349,train
+358,stack the cups,0.2661454940300537,63,119,val
+129,take the red block from the box and place it on the yellow block,0.26484090315909237,10,139,train
+113,stack the blocks,0.2641312943322771,11,108,train
+46,stack the blocks,0.2625748057115816,48,107,test
+356,stack the blocks,0.2618076686018749,10,114,train
+290,place blue block on red block,0.2602860775975661,55,104,train
+150,stack the cups,0.25941036306880805,65,96,train
+374,place the yellow block on top of the blue cylinder,0.25921006718678696,30,167,train
+123,stack the cups,0.25837382125278435,142,143,train
+176,stack the cups,0.2583023040981495,29,98,train
+178,stack the cups,0.2581811659832935,10,163,train
+77,pick and place red block on blue block,0.256794192469826,110,111,test
+360,place red block on the yellow block,0.25671467948251875,103,104,train
+61,stack the cups,0.2555407006224804,59,112,train
+199,stack the blocks,0.2545895094843704,135,136,train
+409,stack blue cylinder on top of blue block,0.25393023270176995,73,128,train
+24,stack the cups,0.25376976150144004,18,126,train
+344,place the white cylinder on top of the blue cylinder,0.25333501484552096,10,101,val
+309,stack the blocks,0.25272576139497605,266,267,train
+386,stack the cups,0.25254946497323316,108,109,test
+147,stack the cups,0.25223118246885895,10,102,train
+369,put yellow block in to box,0.2515959606664472,58,117,train
+112,stack the cylinders next to each other on top of the blue block,0.250483748055491,48,173,train
+291,stack the blocks,0.24912165518642673,57,97,train
+252,drop the blue cylinder inside the cup,0.24858804640695303,10,104,train
+248,stack the cups,0.24731553563761724,74,116,test
+48,stack the objects,0.24714780392647015,251,299,train
+432,stack the blocks,0.24706752803658627,131,132,test
+350,stack the cups,0.24624059399852533,115,116,train
+128,stack the blocks,0.24583041847872864,24,106,test
+197,pick and stack the cup inside other cup,0.24579670743279575,133,135,train
+311,stack the blocks,0.2457640797492898,39,90,train
+366,stack the cups,0.243335851396287,144,147,train
+141,stack the cups,0.24253426200961067,154,155,train
+385,stack the cylinders on top of each other on the red block,0.2423169550415889,10,176,train
+322,pick and place yellow block in the box,0.24080424368255654,54,111,train
+163,stack the blocks,0.2406299859411979,109,110,train
+22,stack the cups,0.24054116760232488,10,97,train
+28,stack the cups,0.24038119301505637,10,109,train
+302,stack the cups in each other,0.23921357614669211,109,110,train
+224,stack the cups,0.2384969695581748,54,109,train
+298,stack the cups,0.23695255101965954,92,125,test
+182,stack the cups,0.2367829921402122,37,113,train
+227,stack the cups,0.23675327423643963,10,116,test
+116,transfer the blue block in between the red and yellow blocks,0.23667389460420238,80,118,train
+292,pick and place the blue cylinder on the red block and the yellow cube on the white cylinder,0.23639731930028807,92,184,test
+11,stack the cups,0.23575420047455184,89,102,train
+209,stack the cups,0.23545825660731748,137,138,train
+97,stack the cups,0.23522510881645153,10,119,train
+327,stack the cups,0.23352438901668673,145,146,train
+115,stack yellow block on the blue cylinder,0.23234666806103982,126,127,train
+280,stack the blocks,0.2318523820762089,10,118,train
+429,stack the cups,0.23111447590433537,60,117,val
+363,stack the blocks,0.23080647525824224,41,145,train
+19,remove the blue object from the box,0.22906453071799318,87,135,val
+333,stack yellow block on red block,0.22822505808480706,77,135,train
+55,pick up the cup and place it inside the other cup,0.22768958093965028,106,127,test
+299,stack the blocks,0.22701956666000583,70,113,val
+406,stack the cups,0.22665984109047524,143,144,train
+274,drop blue block in the box,0.22663659696919167,130,132,train
+69,pick and place white cylinder on the blue cylinder,0.2262712222085382,116,117,train
+184,stack the blocks,0.22600284636394388,74,93,train
+103,stack the blocks,0.22598160085215263,165,166,train
+438,stack the cups,0.22575998435894445,10,117,train
+188,stack the cups,0.22509388597636754,92,125,train
+383,stack the cups,0.22499865672392833,10,163,train
+405,stack the cups,0.22479190701440058,11,144,train
+400,stack the cups,0.22314510021261275,123,124,train
+148,stack the blocks,0.22312198522652826,13,108,val
+380,stack the cups,0.22207541853520377,45,132,train
+185,stack blue block on yellow block,0.22199429638241386,65,130,train
+236,stack the cups,0.22192304368493712,123,124,train
+239,take the blue cylinder from the cardboard box and stack on top of the red block,0.2217369502787981,111,112,train
+428,pick and place blue cylinder on the red block,0.2216109416462689,108,109,train
+111,pick and place red block in to the cardboard box,0.2212753822040329,57,113,val
+226,stack the cups,0.2212313371593812,132,133,train
+275,stack the cups,0.22065165414958088,57,91,train
+241,stack the blocks,0.220388868060302,64,107,train
+161,stack the cups,0.21915211136231985,32,121,train
+136,stack the cups,0.2187821363345333,26,114,test
+295,place the blue block on top of the red block,0.21797449071800873,80,150,train
+135,stack the cups,0.21780777767652346,138,139,train
+37,stack the blocks,0.21759007901151006,123,152,train
+326,stack the cups,0.21680956970338452,10,173,train
+262,stack the blocks,0.21563737391757254,153,154,train
+335,pick and place the yellow block on top of the white cylinder,0.21542110385763727,131,155,train
+362,pick and place the blocks on top of another,0.21454691899628708,64,186,test
+297,stack the blocks,0.21449592017842528,18,165,val
+186,stack the blocks,0.21432685523672979,55,156,train
+392,stack the cups,0.21369318659710837,150,151,train
+208,stack the blocks,0.21358665123791404,102,103,train
+10,stack the cups,0.21250769886194615,61,107,train
+79,place blue cylinder on white cylinder,0.21195581442993114,91,113,train
+127,stack the blocks,0.21176846627381524,46,155,train
+435,stack the cups,0.211690742744183,73,136,train
+149,stack the cups,0.21084441686198926,114,115,train
+71,transfer red block in to the box,0.21072030658125898,55,111,val
+220,place the blue cylinder on top of the white cylinder,0.20940118553283776,103,104,val
+3,stack the blocks,0.20908248944536234,106,118,train
+96,stack the blocks,0.20867454931272447,127,153,train
+139,stack the cups,0.20841640908664044,109,110,train
+102,stack the cups,0.20765117724860555,130,132,train
+45,pick and transfer the block in to the box,0.20737530782536953,135,137,train
+78,stack the cups,0.20693865874934186,74,135,train
+339,stack the cups,0.20651293507977492,42,144,test
+253,stack the cups,0.20605308753216786,10,114,train
+332,stack the cups,0.205928848992398,43,115,train
+145,stack cups,0.20585376944428027,10,115,test
+231,stack the cups,0.2054492165089634,63,112,train
+83,stack the cups,0.20506879054197036,136,176,val
+282,stack the blocks,0.20495609628132525,135,194,train
+144,pick and put yellow block on top of blue block,0.20483064595916142,58,115,train
+317,remove the white cylinder from the stack of blocks and replace it with the blue cylinder,0.20457215662817166,87,200,train
+441,pick and place the cups inside eachother,0.2037389284024627,111,112,val
+381,stack the cups,0.2036130729727009,52,125,test
+98,stack the cups,0.20332548605894799,10,164,val
+340,stack the cups,0.2031854386672197,157,159,train
+308,stack the blocks,0.20300587064758296,21,117,val
+388,stack the cups,0.20275041350834164,60,109,test
+33,place the cup inside other cup,0.20261373593378834,105,106,train
+23,stack the blocks,0.20246547610127305,21,138,train
+218,unstack the blue cylinder,0.20153815026373492,65,110,train
+106,stack the blocks,0.20124906071835658,10,156,train
+20,stack the blocks,0.2010614710103983,10,136,train
+95,stack the blocks,0.20103871551796929,60,163,train
+74,stack the cups,0.20065871552547784,141,142,train
+370,stack the cups,0.20036983545377138,128,129,train
+30,transfer yellow block in to the box,0.20001362984656515,117,118,train
+52,stack the blocks,0.19990372209535928,62,94,test
+41,stack the cups,0.19989818909373017,81,111,val
+401,stack the cups,0.19756091587198102,14,130,val
+323,stack the blocks,0.1972985970082289,13,156,train
+2,stack the cups,0.196880036521684,19,154,val
+47,stack the cups,0.1966929815333445,128,129,train
+156,pick and stack the cups,0.19445710770357347,111,112,train
+384,stack the blocks,0.19403518757743946,18,107,train
+217,stack cups,0.1929448727161015,148,149,train
+137,stack the blocks,0.19225265733849642,83,86,test
+174,stack the cups,0.19221062967818606,52,82,train
+345,put the cup and red block in the cardboard box,0.1921046385750417,220,221,train
+319,stack the cylinders,0.19198289751932207,93,94,train
+73,pick up the yellow block and place it in the box,0.19146416383810477,45,95,train
+390,place the cup in the other cup,0.1910389785775634,110,111,train
+173,stack the cups,0.1906837322578539,135,161,train
+134,move yellow block in to the box,0.18981262818828967,68,125,train
+421,stack the blocks,0.1893587599830542,14,117,train
+355,"stack the blocks, blue in the middle, yellow on the top",0.1888749029082737,109,206,train
+403,pick and drop white cylinder in the box,0.18815951453924132,34,116,test
+157,stack the cups,0.18781401011315693,110,160,train
+107,pick up the blue block and stack it with the red block,0.18774050293181782,50,100,train
+238,stack the cups,0.18750627188580973,117,118,train
+283,stack the cups,0.1872420668470893,53,112,train
+426,place the blue block on top of the yellow cube,0.18718835769032957,101,143,train
+278,stack the blocks,0.18659988536909766,40,113,train
+120,stack the cups,0.18640008525037377,53,126,train
+177,stack the cups,0.1851073283276353,55,116,train
+164,stack the blocks,0.18496610455751392,43,96,val
+121,stack the blocks,0.18396614344262216,43,112,train
+354,stack the cups,0.18396400010586558,160,161,train
+108,stack cups,0.18299608894555613,60,124,train
+359,place the blue cylinder inside the box,0.18292382862875728,63,116,val
+153,pick and place the white cylinder on top of the blue cylinder,0.1828919680319373,29,98,val
+337,stack the cups,0.18185567747703502,77,116,val
+50,pick up the cup and transfer it in to the box,0.1813953704284104,74,131,train
+267,stack the cups,0.18063394806087069,49,187,train
+250,stack the cups,0.18050472174108534,102,115,train
+16,stack the cups,0.17972883126037215,65,180,train
+165,stack the cups,0.17958547252171253,48,115,train
+269,stack the cups,0.17845651746602303,137,138,train
+294,stack cups,0.17822954595675386,116,117,train
+331,pick and stack the cups,0.17807378305088753,72,95,test
+315,stack the cups,0.17804546714554992,113,114,train
+91,stack the cups,0.17777288573478997,107,159,train
+346,stack the cups,0.1777677626685772,10,112,train
+348,stack the blocks,0.17747918390637527,80,103,train
+277,pick up and stack the cups inside each other,0.17593588542170613,67,124,train
+257,place yellow block on top of the blue block,0.17451577784023523,98,138,train
+212,stack the cups,0.17378303786308466,146,176,train
+200,stack the cups,0.17304851727925932,115,116,val
+230,stack the blocks,0.1728257376036948,123,175,train
+371,remove the white cylinder from the stack,0.17200252731553298,84,122,val
+85,put the blue cylinder in the box,0.1710091332136658,122,124,test
+206,place the yellow cube on the red block,0.16996581689571538,49,110,train
+8,stack cups,0.16929274456867333,111,120,train
+394,stack the cups,0.16913678844279004,126,127,val
+125,pick and put blue cylinder in the box,0.1690198717722576,10,117,train
+29,stack the blocks,0.16874323810538433,59,118,train
+325,stack the cups,0.16818010083354276,129,130,val
+414,stack the cups,0.16817421395283205,71,86,train
+193,pick and place the yellow block on the blue and red blocks,0.1674744504422385,36,111,train
+378,stack cups,0.16739766259743566,74,128,train
+423,stack the cups,0.16691381306835634,114,165,train
+343,place the red block on top of the blue block,0.16683792684544269,132,133,train
+181,take the cup from the box and place it in the other cup,0.16522670428308914,119,120,val
+7,pick and place the cups inside each other,0.16418098017122396,106,107,train
+170,stack the cups,0.164164516452534,53,168,train
+439,stack cups,0.16338074225181773,97,137,train
+284,stack the blocks,0.16221628170377475,100,130,train
+242,pick and place cup inside other cup,0.16135477254758965,60,109,train
+328,put the cup inside the other cup,0.15972253792528093,79,102,train
+210,stack the cups,0.1592595867342145,96,142,train
+105,pick and stack the cup in the other cup,0.1588748136923371,112,113,train
+395,stack the cups,0.15733012157745135,125,126,train
+53,stack the blocks,0.1568878029798215,76,112,train
+256,stack the cups,0.15688049151721462,90,110,train
+228,pick and stack the cups inside each other,0.15633420692529093,109,142,train
+375,stack the cups,0.15517591847473547,49,135,train
+424,stack the cups,0.15511271943646598,71,98,train
+86,stack the blocks,0.15439450647187217,84,118,train
+179,stack the blocks,0.15432665899557146,46,105,train
+5,stack the cups,0.15417241223922176,66,114,val
+225,stack the cups and place the white cylinder on the red block,0.1541316675984465,95,199,test
+320,stack the cups,0.15372224897327472,86,94,val
+109,stack the cups,0.1528524603769131,153,154,val
+169,stack the cups,0.15198611862824973,10,113,train
+38,stack the cups,0.1517596211749762,17,156,test
+399,stack the cups,0.15145315516715577,106,107,train
+40,stack the cups,0.15100415647826812,74,124,train
+263,stack the blocks,0.14827702233785997,61,96,train
+192,stack the blocks,0.14826279014407417,108,118,train
+232,stack the cups,0.14771738217666933,97,101,test
+408,stack the cups,0.1467228274672823,115,116,train
+82,stack the cups,0.1466667206013839,11,156,train
+118,stack the blocks,0.1465171064585499,105,115,train
+14,stack the cups,0.14604003491815504,135,173,train
+201,stack the cups,0.14557692226338761,99,175,test
+4,stack the cups,0.14526497053079576,54,89,train
+324,stack the cups,0.1451081736135339,119,129,train
+419,stack the blocks,0.14435371596396207,108,116,train
+377,stack the cups,0.14337393603553533,20,166,train
+180,stack the cups,0.14285003541456132,65,177,train
+110,stack the white cylinder on top of the blue block,0.14174140847790076,34,99,train
+9,stack cups,0.1414591782967665,113,114,train
+183,stack the cups,0.1403100944573015,115,171,train
+72,place red block in to the cardboard box,0.13983878298692318,40,122,train
+442,stack the blocks,0.13965494336729495,58,107,train
+67,stack the blocks,0.1393323017184907,122,146,train
+21,place red block on blue block,0.13929532427797922,98,145,train
+310,stack the cups,0.13916439041250273,120,124,train
+160,stack the blocks,0.13870758406857162,143,144,val
+122,stack cups,0.13865413250273953,125,126,train
+382,stack the cups,0.13808517014626154,129,164,train
+422,stack cups,0.1355999648472174,131,132,train
+361,pick and place the red block on top of the blue block,0.13436361588531207,37,119,test
+104,remove the blue block from the stack,0.1332434064224774,86,125,train
+411,stack the cups,0.1316941812007754,120,132,train
+289,stack the cups,0.12975454919509163,58,102,train
+254,place white cylinder on top of the blue cylinder,0.12940042164181,67,108,train
+190,stack the cups in each other,0.128194173215099,102,112,train
+70,stack the blocks,0.12803847441193125,59,98,train
+119,stack the cups,0.1255506194452754,152,153,test
+57,stack the blocks,0.12373551221534443,76,116,train
+415,stack the cups,0.12234792846564348,60,92,test
+373,stack the blocks,0.12113201066986673,27,103,train
+168,stack the cups,0.11918505904792741,109,119,train
+146,stack the cups inside eachother,0.11809675261307141,66,96,train
+60,pick and place the red block on the blue block,0.1136642875699954,96,138,train
+191,stack the blocks,0.11350276218020328,96,103,train
+251,stack the cups,0.11236484615732027,109,118,train
+35,stack the cups,0.10769102753425217,42,102,train
+379,stack the cups,0.10762238861760441,10,101,train
+92,pick and place the white cylinder in the cup,0.1057710010841248,117,119,train
+243,stack the cups,0.10260905265321359,25,103,train

@@ -1,0 +1,5 @@
+,GRU forecaster,Uncertainty-aware GRU,runs won by new model (of 5)
+false alarms @90% caught (lower = better),0.212 ± 0.026,0.215 ± 0.025,1
+detection score (higher = better),0.896 ± 0.008,0.910 ± 0.007,5
+half-size failures caught (higher = better),0.58 ± 0.10,0.91 ± 0.06,5
+alarm steps per clean recording (lower = better),0.92 ± 0.41,1.06 ± 0.94,2
